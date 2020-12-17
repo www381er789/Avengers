@@ -1,0 +1,14 @@
+body {
+    background-color:fuchsia;
+}
+button{
+    display: block;
+    width: 100px;
+    height: 70px;
+    background-image: url(less%20than.PNG)
+}
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px yellow;
+    color: deepskyblue;
+}
